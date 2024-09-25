@@ -1,1 +1,2 @@
-# Image-Gallery
+s part of my internship at Code Alpha, I developed a dynamic image gallery using HTML, CSS, and JavaScript. The project showcases a series of visually appealing images with interactive elements, allowing users to explore different slides and detailed content. I implemented responsive design principles, animations, and integrated Font Awesome icons to enhance the user interface. This experience helped me strengthen my skills in web development, design aesthetics, and modern frontend technologies.
+
